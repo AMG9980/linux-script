@@ -1,0 +1,31 @@
+=========================
+=	Version :       =
+=========================
+
+Project N°10 version 1.1
+
+##
+# BASH menu script that checks:
+#   - Display All process
+#   - List All The Execution Process
+#   - Display All Process In User 
+#   - Display Top 5 Greedy InTerm Of Mermories
+#   - Display ReadMe
+#   - Save Info
+#   - Display Version
+#   - Display Info
+#   - Display Info a partir d'un mot clé
+##
+
+=========================
+= 	author :        =
+=========================
+
+Project N ° 10 of version 1.1 created by the engineer Amine Gharbi
+
+===============================
+= 	Release date :        =
+===============================
+
+This Project Released in 04/01/2021
+

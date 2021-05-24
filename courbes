@@ -1,0 +1,8 @@
+set term png 
+set output "courbe.png"
+
+set title "courbe"
+set xlabel "test1"
+set ylabel "test2"
+
+plot "data.txt" with lines

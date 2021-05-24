@@ -1,0 +1,5 @@
+amine      20377  3.9  0.6 445048 31300 ?        Ssl  11:17   0:01 /usr/libexec/tracker-store
+amine       1417  3.8  7.5 3764744 385544 ?      Rsl  01:09  23:21 /usr/bin/gnome-shell
+amine       1249  1.9  1.9 575272 101372 tty2    Sl+  01:09  11:56 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -nolisten tcp -background none -noreset -keeptty -novtswitch -verbose 3
+amine      20384  1.2  0.7 768420 36720 ?        SNsl 11:17   0:00 /usr/libexec/tracker-extract
+amine      20111  0.8  0.9 823124 49096 ?        Ssl  11:14   0:01 /usr/libexec/gnome-terminal-server
